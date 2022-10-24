@@ -1,0 +1,35 @@
+.dark-blue-background {
+    background-color: #1f2937;
+    display: flex;
+}
+
+.header-logo {
+    color: white;
+    font-size: 24px;
+    font-weight:bold
+}
+
+.hero-main {
+    color:white;
+    font-size:48px;
+    font-weight:bolder
+}
+
+.header-links{
+    font-size:18px;
+    color:#e5e7eb;
+    display:flex;
+    flex-direction: row;
+    justify-content: flex-end 
+
+}
+
+.button {
+    size:18px;
+    background-color:#3882F6;
+    border-radius:20%;
+    color:white;
+    display:flex;
+
+
+}
